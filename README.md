@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrbauer88
 - 👀 I’m interested in Architecting Web & Software Solutions
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me ... https://www.linkedin.com/in/jrbauer1/
 
 <!---
